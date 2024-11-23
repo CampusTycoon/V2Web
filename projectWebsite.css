@@ -48,6 +48,7 @@ a.button{
     margin-left: 15%;
     margin-right: 15%;
     margin-bottom: 5%;
+    text-align: center;
     position: relative;
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
 }
