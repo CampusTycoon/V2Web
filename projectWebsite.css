@@ -58,6 +58,19 @@ a.button:hover{
     
 }
 
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    color: #FFCC00;
+    font-family: 'SF Distant Galaxy', 'News Gothic', Arial, sans-serif;
+    font-size: 20px;
+}
+
 #logo {
     height: 125px;
     border-radius: 4cqmin;
