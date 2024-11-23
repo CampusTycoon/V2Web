@@ -65,10 +65,10 @@ a.button:hover{
     left: 0;
     width: 100%;
     text-align: center;
-    padding: 10px;
+    padding: 5px;
     color: #FFCC00;
     font-family: 'SF Distant Galaxy', 'News Gothic', Arial, sans-serif;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 #logo {
